@@ -2,3 +2,6 @@ apiVersion: v1
 kind: Namespace
 metadata:
   name: test6
+  labels:
+    app: game
+
